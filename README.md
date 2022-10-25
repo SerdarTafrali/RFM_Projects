@@ -1,6 +1,6 @@
 # RFM Projects
 
-## RFM projects on Online Retail II and FLO Retail Merchandising Sales datasets
+RFM projects on Online Retail II and FLO Retail Merchandising Sales datasets
 
 ![image](/Images/RFM_Serdar_Tafrali_Data_scientist_2.jpg)
 
